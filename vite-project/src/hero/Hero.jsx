@@ -5,7 +5,7 @@ function Hero() {
   return (
     <>
     {/* main div */}
-        <div className=' flex flex-1 flex-col lg:flex-row container mt-2'>
+        <div className=' flex flex-1 flex-col lg:flex-row container py-8 '>
             {/* left sight */}
           <div className=' order-2 lg:order-1 '>
             <h1  className='max-w-[682px]  font-bold text-[50px] lg:text-[72px] lg:leading-[87.14px] mb-2 text-wrap '> Simply explained with illustrations</h1>
