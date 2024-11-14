@@ -15,7 +15,6 @@ function App() {
 
   return (
   <>
-    <h1 className=' text-red-600 bg-green-500'> sb sakib sarkar</h1>
     <Navber/>
     <Hero/>
     <Explore/>
