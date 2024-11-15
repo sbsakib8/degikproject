@@ -2,7 +2,17 @@ import React from 'react'
 
 function Work() {
   return (
-    <div>Work</div>
+    <>
+    {/* main div */}
+      <div>
+          {/* left div */}
+        <div></div>
+        {/* right div */}
+        <div></div>
+
+      </div>
+
+    </>
   )
 }
 
