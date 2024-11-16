@@ -3,8 +3,10 @@ import ArrowBackIosIcon from '@mui/icons-material/ArrowBackIos';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 function Work() {
   return (
-    <>
-    {/* main div */}
+    <>  
+    <div>
+
+       {/* main div */}
       <div className=' container flex flex-1 gap-4 flex-col lg:flex-row py-8 md:py-12 lg:py-16'>
           {/* left div */}
         <div className=' lg:w-1/2'>
@@ -26,10 +28,15 @@ function Work() {
         {/* right div */}
         <div>
 
-          <img className=' my-5 mx-auto h-[405px] lg:max-w-[471px] lg:h-[551px] object-cover' src="/Group 35.png" alt="" />
+          <img className=' mt-5 mx-auto h-[405px] lg:max-w-[471px] lg:h-[551px] object-cover' src="/Group 35.png" alt="" />
         </div>
-
+         
+          
+         
       </div>
+      <img className=' container mx-auto w-[500px] md:w-[1100px] pb-7' src="Logos.png" alt="" />
+    </div>
+    
 
     </>
   )
