@@ -5,7 +5,7 @@ function Make() {
   return (
     <>
 
-    <div className=' container py-8 md:py-11 lg:py-20'>
+    <div className=' container py-8 md:py-11 lg:py-20 '>
 {/* section 1 */}
      <div className=' flex flex-1 flex-col lg:flex-row'>
       {/* img div */}
