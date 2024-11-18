@@ -12,7 +12,7 @@ function Blog() {
           <p className=' max-w-[448px] text-[21px] leading-[30px] text-wrap text-gray-400 '>There are a lot of different components that will help you create the perfect look for your project.</p>
         </div>
         {/* button dib */}
-        <div>
+        <div className='mt-6'>
           <Button btn='Explore All'/>
         </div>
       </div>
