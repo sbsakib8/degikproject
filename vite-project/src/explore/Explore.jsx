@@ -27,7 +27,7 @@ function Explore() {
          <div className='lg:ml-[135px] mt-7 lg:mt-0 '>
           <h2 className=' max-w-[463px] font-medium text-[44px] md:text-[55px] leading-[50px] lg:leading-[60px] text-wrap mb-7'>The quickest way to create modern presentation</h2>
           <p className=' max-w-[448px] text-wrap font-normal text-[21px] leading-[30px] mb-5'>Best software platform for running an internet business. We build the most powerful and flexible tools for internet commerce.</p>
-           <Button btn='Explore All' />
+           <Button btn='Explore All' className=' bg-[#5F62E226] text-[#5F62E2]' />
          </div>
        
 

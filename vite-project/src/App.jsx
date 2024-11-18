@@ -24,6 +24,7 @@ function App() {
     <Quickest/>
     <Blog/>
     <Footer/>
+    
   </>
   )
 }

@@ -44,7 +44,7 @@ function Make() {
         <p className='text-[21px] font-normal leading-[30px] text-wrap text-black'> <DoneIcon/> Many ways to use illustrations in design</p>
         <p className='text-[21px] font-normal leading-[30px] text-wrap text-black'> <DoneIcon/> Simply explained with illustrations</p>
         <p className='text-[21px] font-normal leading-[30px] text-wrap text-black mb-8'> <DoneIcon/> Make more time for the work</p>
-         <Button btn='Learn more'/>
+         <Button btn='Learn more' className=' bg-[#5F62E226] text-[#5F62E2]'/>
       </div>
 
      </div>

@@ -13,7 +13,7 @@ function Blog() {
         </div>
         {/* button dib */}
         <div className='mt-6'>
-          <Button btn='Explore All'/>
+          <Button btn='Explore All' className=' bg-[#5F62E226] text-[#5F62E2]'/>
         </div>
       </div>
 
@@ -22,7 +22,7 @@ function Blog() {
         <div className=' grid md:grid-cols-2 lg:grid-cols-3 lg:gap-6 mt-10 '>
          {
           Blogdata.map((item) => (
-            <div className=' mt-3 w-[410px] h-[471px] mx-auto'>
+            <div className=' mt-3 w-[410px] h-[471px] mx-auto' key={item.id}>
              <div className=' w-[350px] h-[275px] bg-boxColor rounded-[10px] '> <img className=' mx-auto pt-9' src={item.img} alt={item.title} /></div>
               <h2 className=' max-w-[327px] font-medium text-[28px] leading-[34px] mt-3'>{item.title}</h2>
               <p className='max-w-[327px] font-normal leading-[25px] text-gray-400 text-wrap mt-3'>{item.description}</p>

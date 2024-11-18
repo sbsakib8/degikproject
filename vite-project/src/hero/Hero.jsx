@@ -13,7 +13,7 @@ function Hero() {
             {/* button div */}
             <div className='flex gap-3 mt-3'>
                <Button  btn='Get Started'/>
-               <Button btn='Learn More'/>
+               <Button btn='Learn More' className=' bg-[#5F62E226] text-[#5F62E2]'/>
             </div>
           </div>
 

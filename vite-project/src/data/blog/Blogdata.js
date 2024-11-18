@@ -8,7 +8,7 @@ let Blogdata = [
 
     },
     {
-        id: 1,
+        id: 2,
         img :'vase-1-b 2 (2).png',
         title:'My company culture has changed today',
         description:'A lot of different components that will help you create the perfect look for your project',
@@ -16,7 +16,7 @@ let Blogdata = [
 
     },
     {
-        id: 1,
+        id: 3,
         img :'vase-1-b 2 (1).png',
         title:'Professionals in craft! All products were super great',
         description:'A lot of different components that will help you create the perfect look for your project',
