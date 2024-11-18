@@ -18,8 +18,8 @@ function Quickest() {
       </div>
 
       {/* right div */}
-      <div className=''>
-        <img className=' w-56 md:w-full' src="bomb 1.png" alt="" />
+      <div className=' lg:mt-32'>
+        <img className=' hidden md:block w-full' src="bomb 1.png" alt="" />
       </div>
 
     </div>
