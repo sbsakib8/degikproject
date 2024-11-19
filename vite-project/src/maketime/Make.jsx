@@ -24,13 +24,6 @@ function Make() {
 
      </div>
 
-
-
-
-
-
-
-
 {/* section 2 */}
 <div className=' flex flex-1 flex-col lg:flex-row mt-12 lg:mt-20'>
       {/* img div */}
