@@ -32,3 +32,4 @@ let footerdata = [
         link3: 'PolicRefundy'
     }
 ]
+export default footerdata;
